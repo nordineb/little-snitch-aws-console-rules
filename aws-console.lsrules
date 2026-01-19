@@ -1,0 +1,26 @@
+{
+  "name": "AWS Console Allowed Domains",
+  "description": "Essential domains for AWS Management Console, SSO, and AWS Access Portal.",
+  "rules": [
+    {
+      "action": "allow",
+      "process": "any",
+      "remote-domains": [
+        "a2z.com",
+        "amazon.com",
+        "amazonaws.com",
+        "aws",
+        "aws.com",
+        "aws.dev",
+        "awscloud.com",
+        "awsplayer.com",
+        "awsstatic.com",
+        "cloudfront.net",
+        "live-video.net",
+        "awsapps.com",
+        "signin.aws"
+      ],
+      "notes": "Ruleset for AWS Console access. Maintained at: [Your Repo URL]"
+    }
+  ]
+}
