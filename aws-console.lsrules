@@ -21,7 +21,7 @@
         "*.signin.aws",
         "*.api.aws"
       ],
-      "notes": "Ruleset for AWS Console access with wildcard subdomain support. Maintained at: [Your Repo URL]"
+      "notes": "Ruleset for AWS Console access with wildcard subdomain support"
     }
   ]
 }
