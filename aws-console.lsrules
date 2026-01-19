@@ -18,7 +18,8 @@
         "cloudfront.net",
         "live-video.net",
         "awsapps.com",
-        "signin.aws"
+        "signin.aws",
+        "console.api.aws",
       ],
       "notes": "Ruleset for AWS Console access. Maintained at: [Your Repo URL]"
     }
